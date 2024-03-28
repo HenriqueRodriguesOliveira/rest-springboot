@@ -1,10 +1,10 @@
-package br.com.henriquedev.restspringbootwithjava;
+package StartupTests;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestSpringbootWithJavaApplicationTests {
+class StartupTests {
 
 	@Test
 	void contextLoads() {
